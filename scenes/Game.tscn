@@ -1,3 +1,6 @@
 [gd_scene format=3 uid="uid://c00fwvqqlb2gs"]
 
+[ext_resource type="Script" uid="uid://bnp05n2ga1yrs" path="res://scripts/game.gd" id="1_ibkli"]
+
 [node name="game" type="Node2D" unique_id=1953844681]
+script = ExtResource("1_ibkli")
