@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://cctpr8ox437vf"]
+
+[ext_resource type="AudioStream" uid="uid://di5now5dm33dr" path="res://assets/brackeys_platformer_assets/music/time_for_adventure.mp3" id="1_q5y64"]
+
+[node name="BGM" type="AudioStreamPlayer" unique_id=1710633774]
+stream = ExtResource("1_q5y64")
+autoplay = true
+bus = &"BGM"
